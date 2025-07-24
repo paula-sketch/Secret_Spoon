@@ -2,4 +2,4 @@ Secret_Spoon
 
 All .php codes
 
-pakicheck if ok na to
+pakicheck if ok na 
